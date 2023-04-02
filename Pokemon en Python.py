@@ -406,75 +406,75 @@ if __name__ == '__main__':
 	print("                               `")
 	print("   .:XHHHHk.              db.   .;;.     dH  MX  ")
 	print("oMMMMMMMMMMM       ~MM  dMMP :MMMMMR   MMM  MR      ~MRMN")
-	print("QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ´MMM")
+	print("QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ï¿½MMM")
 	print("  `MMMM.  )M> :X!Hk. MMMM   XMM.o   .  MMMMMMM X?XMMM MMM> !MMP")
-	print("   ´MMMb.dM! XM M´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM")
+	print("   ï¿½MMMb.dM! XM Mï¿½?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM")
 	print("    ~MMMMM~ XMM. .XM XM` MMMb.~~MMMM~.MMX M  t MMbooMM XM MMMMP")
 	print("     ?MMM>  YMMMMMM! MM   `?MMRb.    `       !L MMMMM XM  IMMM")
 	print("      MMMX    MMMM   MM       ~%:            !Mh.  dMI     IMMP")
-	print("      ´MMM.                                                IMX")
+	print("      ï¿½MMM.                                                IMX")
 	print("       ~M!M                                                 BMT")
 	print("                      A M A R I L L O ")
 	print("")
-	input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+	input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 	print("") # no hay forma directa de borrar la pantalla con Python estandar
 	for i in range(1,3):
-		print("_¶___________¶¶¶")
-		print("_¶¶__________¶__¶")
-		print("¶__¶_________¶___¶")
-		print("¶___¶________¶___¶")
-		print("¶____¶_______¶____¶¶¶¶¶¶")
-		print("¶_____¶______¶__________¶¶")
-		print("¶______¶¶¶__¶_¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶¶")
-		print("¶_____¶___¶¶_¶¶¶¶________________¶¶¶¶")
-		print("_¶___¶___¶¶___¶¶___________¶¶¶¶¶¶")
-		print("__¶__¶__¶___¶_____¶___¶¶¶¶_¶")
-		print("___¶_¶_¶______________¶¶¶¶_¶")
-		print("¶¶¶__¶¶_________¶¶¶¶______¶")
-		print("¶___¶__¶_________@¶____¶__¶")
-		print("_¶___¶_¶_________________¶")
-		print("__¶__¶_¶________________¶¶")
-		print("___¶_¶¶___________________¶¶")
-		print("____¶¶_________________¶¶___¶")
-		print("____¶_________________¶__¶___¶")
-		print("___¶_________________¶____¶¶¶¶")
-		print("__¶___________________¶")
-		print("__¶____________________¶")
-		print("__¶_____¶¶¶¶¶¶¶¶_______¶")
-		print("___¶__¶¶________¶¶____¶")
-		print("___¶__¶___________¶____¶¶")
-		print("__¶¶¶¶_____________¶¶¶¶¶¶¶¶")
+		print("_ï¿½___________ï¿½ï¿½ï¿½")
+		print("_ï¿½ï¿½__________ï¿½__ï¿½")
+		print("ï¿½__ï¿½_________ï¿½___ï¿½")
+		print("ï¿½___ï¿½________ï¿½___ï¿½")
+		print("ï¿½____ï¿½_______ï¿½____ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("ï¿½_____ï¿½______ï¿½__________ï¿½ï¿½")
+		print("ï¿½______ï¿½ï¿½ï¿½__ï¿½_ï¿½ï¿½_________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("ï¿½_____ï¿½___ï¿½ï¿½_ï¿½ï¿½ï¿½ï¿½________________ï¿½ï¿½ï¿½ï¿½")
+		print("_ï¿½___ï¿½___ï¿½ï¿½___ï¿½ï¿½___________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("__ï¿½__ï¿½__ï¿½___ï¿½_____ï¿½___ï¿½ï¿½ï¿½ï¿½_ï¿½")
+		print("___ï¿½_ï¿½_ï¿½______________ï¿½ï¿½ï¿½ï¿½_ï¿½")
+		print("ï¿½ï¿½ï¿½__ï¿½ï¿½_________ï¿½ï¿½ï¿½ï¿½______ï¿½")
+		print("ï¿½___ï¿½__ï¿½_________@ï¿½____ï¿½__ï¿½")
+		print("_ï¿½___ï¿½_ï¿½_________________ï¿½")
+		print("__ï¿½__ï¿½_ï¿½________________ï¿½ï¿½")
+		print("___ï¿½_ï¿½ï¿½___________________ï¿½ï¿½")
+		print("____ï¿½ï¿½_________________ï¿½ï¿½___ï¿½")
+		print("____ï¿½_________________ï¿½__ï¿½___ï¿½")
+		print("___ï¿½_________________ï¿½____ï¿½ï¿½ï¿½ï¿½")
+		print("__ï¿½___________________ï¿½")
+		print("__ï¿½____________________ï¿½")
+		print("__ï¿½_____ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_______ï¿½")
+		print("___ï¿½__ï¿½ï¿½________ï¿½ï¿½____ï¿½")
+		print("___ï¿½__ï¿½___________ï¿½____ï¿½ï¿½")
+		print("__ï¿½ï¿½ï¿½ï¿½_____________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
 		print("Mantenga presionado cualquier boton hasta que carga completo")
 		print("")
 		print("                     CARGANDO ",cont,"%")
 		cont = cont+5
 		sleep(1)
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
-		print("_¶___________¶¶¶")
-		print("_¶¶__________¶__¶")
-		print("¶__¶_________¶___¶")
-		print("¶___¶________¶___¶")
-		print("¶____¶_______¶____¶¶¶¶¶¶")
-		print("¶_____¶______¶__________¶¶")
-		print("¶______¶¶¶__¶_¶¶_________¶¶¶¶¶¶¶¶¶¶¶¶¶")
-		print("¶_____¶___¶¶_@¶¶¶________________¶¶¶¶")
-		print("_¶___¶___¶¶___¶¶___________¶¶¶¶¶¶")
-		print("__¶__¶__¶___¶_____¶___¶¶@¶_¶")
-		print("___¶_¶_¶______________¶@¶¶_¶")
-		print("¶¶¶__¶¶_________¶¶¶¶______¶")
-		print("¶___¶__¶_________¶¶____¶__¶___¶¶¶¶")
-		print("_¶___¶_¶_________________¶__¶¶__¶")
-		print("__¶__¶_¶________________¶¶¶¶__¶")
-		print("___¶_¶¶_____________________¶¶ ")
-		print("____¶¶_________________¶¶¶¶¶")
-		print("____¶_________________¶")
-		print("___¶_________________¶")
-		print("__¶___________________¶")
-		print("__¶____________________¶")
-		print("__¶_____¶¶¶¶¶¶¶¶_______¶")
-		print("___¶__¶¶________¶¶____¶")
-		print("___¶__¶___________¶____¶¶")
-		print("__¶¶¶¶_____________¶¶¶¶¶¶¶¶")
+		print("_ï¿½___________ï¿½ï¿½ï¿½")
+		print("_ï¿½ï¿½__________ï¿½__ï¿½")
+		print("ï¿½__ï¿½_________ï¿½___ï¿½")
+		print("ï¿½___ï¿½________ï¿½___ï¿½")
+		print("ï¿½____ï¿½_______ï¿½____ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("ï¿½_____ï¿½______ï¿½__________ï¿½ï¿½")
+		print("ï¿½______ï¿½ï¿½ï¿½__ï¿½_ï¿½ï¿½_________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("ï¿½_____ï¿½___ï¿½ï¿½_@ï¿½ï¿½ï¿½________________ï¿½ï¿½ï¿½ï¿½")
+		print("_ï¿½___ï¿½___ï¿½ï¿½___ï¿½ï¿½___________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("__ï¿½__ï¿½__ï¿½___ï¿½_____ï¿½___ï¿½ï¿½@ï¿½_ï¿½")
+		print("___ï¿½_ï¿½_ï¿½______________ï¿½@ï¿½ï¿½_ï¿½")
+		print("ï¿½ï¿½ï¿½__ï¿½ï¿½_________ï¿½ï¿½ï¿½ï¿½______ï¿½")
+		print("ï¿½___ï¿½__ï¿½_________ï¿½ï¿½____ï¿½__ï¿½___ï¿½ï¿½ï¿½ï¿½")
+		print("_ï¿½___ï¿½_ï¿½_________________ï¿½__ï¿½ï¿½__ï¿½")
+		print("__ï¿½__ï¿½_ï¿½________________ï¿½ï¿½ï¿½ï¿½__ï¿½")
+		print("___ï¿½_ï¿½ï¿½_____________________ï¿½ï¿½ ")
+		print("____ï¿½ï¿½_________________ï¿½ï¿½ï¿½ï¿½ï¿½")
+		print("____ï¿½_________________ï¿½")
+		print("___ï¿½_________________ï¿½")
+		print("__ï¿½___________________ï¿½")
+		print("__ï¿½____________________ï¿½")
+		print("__ï¿½_____ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½_______ï¿½")
+		print("___ï¿½__ï¿½ï¿½________ï¿½ï¿½____ï¿½")
+		print("___ï¿½__ï¿½___________ï¿½____ï¿½ï¿½")
+		print("__ï¿½ï¿½ï¿½ï¿½_____________ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
 		print("Mantenga presionado cualquier boton hasta que carga completo")
 		print("")
 		print("                     CARGANDO ",cont,"%")
@@ -492,7 +492,7 @@ if __name__ == '__main__':
 		print(" |  2.-  S A L I R                              |")
 		print(" |                                              |")
 		print(" @----------------------------------------------@")
-		print("Eliga una opción : ", end="")
+		print("Eliga una opciï¿½n : ", end="")
 		opc = int(input())
 		if opc==1 or opc==2 or opc==4 or opc==5 or opc==6: break
 	if opc==1 or opc==4 or opc==5 or opc==6:
@@ -505,7 +505,7 @@ if __name__ == '__main__':
 			opc = 4
 			win = 100002312381283
 		if opc==6:
-			jugador1 = "Ñe"
+			jugador1 = "ï¿½e"
 			enemigo1 = "Chanchiwagui"
 			opc = 4
 			win = 0
@@ -518,7 +518,7 @@ if __name__ == '__main__':
 		print("                           ")
 		print("                    >MVM")
 		print("                    M~ ~M ")
-		print("                   °| _ |")
+		print("                   ï¿½| _ |")
 		print("                 __- \\_/-__")
 		print("                |   ____   \\ ")
 		print("                | |_|>  |  | |")
@@ -529,17 +529,17 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡H o l a    a    t o d o s!                 |")
+		print(" |  ï¿½H o l a    a    t o d o s!                 |")
 		print(" |                                              |")
-		print(" |  ¡Bienvenidos al  mundo de POKéMON!          |")
-		print(" |                                         \\/   |")
+		print(" |  ï¿½Bienvenidos al  mundo de POKï¿½MON!          |")
+		print(" |                                         \/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                    >MVM")
 		print("                    M~ ~M ")
-		print("                   °| o |")
+		print("                   ï¿½| o |")
 		print("                 __- \\_/-__")
 		print("                |    ____   \\ ")
 		print("                | |_|>  |  | |")
@@ -550,12 +550,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡Me llamo AOK!                              |")
+		print(" |  ï¿½Me llamo AOK!                              |")
 		print(" |                                              |")
-		print(" |  ¡Pero la gente me llama el PROFESOR POKéMon!|")
+		print(" |  ï¿½Pero la gente me llama el PROFESOR POKï¿½Mon!|")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -571,12 +571,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡Este mundo está habitado por unas          |")
+		print(" |  ï¿½Este mundo estï¿½ habitado por unas          |")
 		print(" |                                              |")
-		print(" |  criaturas llamadas POKéMon!                 |")
+		print(" |  criaturas llamadas POKï¿½Mon!                 |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -592,12 +592,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  Para algunos, los POKéMON son mascotas.     |")
+		print(" |  Para algunos, los POKï¿½MON son mascotas.     |")
 		print(" |                                              |")
 		print(" |  Pero otros los usan para pelear.            |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -613,12 +613,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  En cuanto a mí...                           |")
+		print(" |  En cuanto a mï¿½...                           |")
 		print(" |                                              |")
 		print(" |                                              |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -634,13 +634,13 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  Estudio a los POKéMON como profesión.       |")
+		print(" |  Estudio a los POKï¿½MON como profesiï¿½n.       |")
 		print(" |                                              |")
 		print(" |                                              |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
 		# ASHH CAMBIAR IMAGEN
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("    __ _              ")
 		print("   /___\\_\\            ")
@@ -659,12 +659,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  Pero primero dime cómo te llamas.           |")
+		print(" |  Pero primero dime cï¿½mo te llamas.           |")
 		print(" |                                              |")
 		print(" |                                              |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		while True:# no hay 'repetir' en python
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("                     ")
@@ -681,19 +681,19 @@ if __name__ == '__main__':
 			print(" @-----------------@")
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
-			print(" |  Estudio a los POKéMON como profesión.       |")
+			print(" |  Estudio a los POKï¿½MON como profesiï¿½n.       |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			print("Elegir la opción", end="")
+			print("Elegir la opciï¿½n", end="")
 			opc1 = int(input())
 			if opc1==1 or opc1==2 or opc1==3 or opc1==4: break
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		if opc1==1:
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
-			print(" |  ¿ TU NOMBRE                                 |")
+			print(" |  ï¿½ TU NOMBRE                                 |")
 			print(" |                _____________________         |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
@@ -726,12 +726,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡Bien!  ¡Tu nombre es ",jugador1,"!        |")
+		print(" |  ï¿½Bien!  ï¿½Tu nombre es ",jugador1,"!        |")
 		print(" |                                              |")
 		print(" |                                              |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                  __\\__        ")
 		print("                 /     \\/\\_ _  ")
@@ -749,13 +749,13 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  Este es mi nieto. él ha sido tu rival desde |")
+		print(" |  Este es mi nieto. ï¿½l ha sido tu rival desde |")
 		print(" |                                              |")
-		print(" |  que eras un niño.                           |")
+		print(" |  que eras un niï¿½o.                           |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
 		while True:# no hay 'repetir' en python
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("                     ")
 			print(" @----NOMBRE-------@ ")
@@ -771,19 +771,19 @@ if __name__ == '__main__':
 			print(" @-----------------@")
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
-			print(" |  ...Mmm, ¿podrías decirme cómo se llama?     |")
+			print(" |  ...Mmm, ï¿½podrï¿½as decirme cï¿½mo se llama?     |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			print("Elegir la opción", end="")
+			print("Elegir la opciï¿½n", end="")
 			opc2 = int(input())
 			if opc2==1 or opc2==2 or opc2==3 or opc2==4: break
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		if opc2==1:
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
-			print(" |  ¿NOMBRE RIVAL?                                |")
+			print(" |  ï¿½NOMBRE RIVAL?                                |")
 			print(" |                _____________________         |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
@@ -814,13 +814,13 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡Ah, sí!  !Ahora lo recuerdo!               |")
+		print(" |  ï¿½Ah, sï¿½!  !Ahora lo recuerdo!               |")
 		print(" |                                              |")
-		print(" |         ¡Se llama ",enemigo1,"!      |")
+		print(" |         ï¿½Se llama ",enemigo1,"!      |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
 		# Volver a la imagene de ASH
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -836,12 +836,12 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡",jugador1,"!   ¡Tu propia leyenda POKéMON |")
+		print(" |  ï¿½",jugador1,"!   ï¿½Tu propia leyenda POKï¿½MON |")
 		print(" |                                              |")
-		print(" |  está a punto de comenzar!                   |")
+		print(" |  estï¿½ a punto de comenzar!                   |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("                           ")
 		print("                 ")
@@ -857,36 +857,36 @@ if __name__ == '__main__':
 		print("")
 		print(" @----------------------------------------------@")
 		print(" |                                              |")
-		print(" |  ¡Te espera un mundo de sueños y aventuras   |")
+		print(" |  ï¿½Te espera un mundo de sueï¿½os y aventuras   |")
 		print(" |                                              |")
-		print(" |  con los POKéMON!                            |")
+		print(" |  con los POKï¿½MON!                            |")
 		print(" |                                         \\/   |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		while True:# no hay 'repetir' en python
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("                     | v  v|                    ")
 			print("                     |  v  |                    ")
 			print("                     |   v |                    ")
 			print("                     |     |                    ")
-			print("°°°°°°°°°°°°°°°°°°°°°° [4] °°°°°°°°°°°°°°°°°°°°°")
-			print("°         ______             _________         °")
-			print("°        /------\\           /---------\\        °")
-			print("°       | [_][_] |         | [__] _[_] |       °")
-			print("°   [1] |_||_____|     [2] !_____| |___!       °")
-			print("°                                              °")
-			print("°                                              °")
-			print("°    °°°°°°°[0]          _____________         °")
-			print("°    ~v~v~v~    O       /             \\        °")
-			print("°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\\       °")
-			print("°              /l      \\/[][][] [][][]\\/       °")
-			print("°                       | - - - - - - |        °")
-			print("°     _______           |_RRRR_| |_RRR|        °")
-			print("°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
+			print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ [4] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+			print("ï¿½         ______             _________         ï¿½")
+			print("ï¿½        /------\\           /---------\\        ï¿½")
+			print("ï¿½       | [_][_] |         | [__] _[_] |       ï¿½")
+			print("ï¿½   [1] |_||_____|     [2] !_____| |___!       ï¿½")
+			print("ï¿½                                              ï¿½")
+			print("ï¿½                                              ï¿½")
+			print("ï¿½    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[0]          _____________         ï¿½")
+			print("ï¿½    ~v~v~v~    O       /             \\        ï¿½")
+			print("ï¿½    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\\       ï¿½")
+			print("ï¿½              /l      \\/[][][] [][][]\\/       ï¿½")
+			print("ï¿½                       | - - - - - - |        ï¿½")
+			print("ï¿½     _______           |_RRRR_| |_RRR|        ï¿½")
+			print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½///////ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			print(" |  !VE RAPIDO A UNA PELEA!                     |")
-			print(" |                        (OPCIÓN 4)            |")
+			print(" |                        (OPCIï¿½N 4)            |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" @----------------------------------------------@")
@@ -903,26 +903,26 @@ if __name__ == '__main__':
 			print("                     |  v  |                    ")
 			print("                     |  v  |                    ")
 			print("                     |     |                    ")
-			print("°°°°°°°°°°°°°°°°°°°°°°     °°°°°°°°°°°°°°°°°°°°°")
-			print("°         ______             _________         °")
-			print("°        /------\\           /---------\\        °")
-			print("°       | [_][_] |         | [__] _[_] |       °")
-			print("°       |_||_____|         !_____| |___!       °")
-			print("°                                              °")
-			print("°                                              °")
-			print("°    °°°°°°°             _____________         °")
-			print("°    ~v~v~v~            /             \\        °")
-			print("°    v!v!v!v           /|_ _ _ _ _ _ _|\\       °")
-			print("°                      \\/[][][] [][][]\\/       °")
-			print("°                       | - - - - - - |        °")
-			print("°     _______           |_RRRR_| |_RRR|        °")
-			print("°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
+			print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½     ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+			print("ï¿½         ______             _________         ï¿½")
+			print("ï¿½        /------\\           /---------\\        ï¿½")
+			print("ï¿½       | [_][_] |         | [__] _[_] |       ï¿½")
+			print("ï¿½       |_||_____|         !_____| |___!       ï¿½")
+			print("ï¿½                                              ï¿½")
+			print("ï¿½                                              ï¿½")
+			print("ï¿½    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½             _____________         ï¿½")
+			print("ï¿½    ~v~v~v~            /             \\        ï¿½")
+			print("ï¿½    v!v!v!v           /|_ _ _ _ _ _ _|\\       ï¿½")
+			print("ï¿½                      \\/[][][] [][][]\\/       ï¿½")
+			print("ï¿½                       | - - - - - - |        ï¿½")
+			print("ï¿½     _______           |_RRRR_| |_RRR|        ï¿½")
+			print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½///////ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
 			print(" @----------------------------------------------@")
-			print(" |  OAK: ¡HEY ALTO NO VAYAS!                    |")
+			print(" |  OAK: ï¿½HEY ALTO NO VAYAS!                    |")
 			sleep(1)
-			print(" |           ¡Ufff! ¡Estuvo cerca!              |")
+			print(" |           ï¿½Ufff! ï¿½Estuvo cerca!              |")
 			sleep(1)
-			print(" |    ¡En la hierba viven POKéMON salvajes!     |")
+			print(" |    ï¿½En la hierba viven POKï¿½MON salvajes!     |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" @----------------------------------------------@")
@@ -944,12 +944,12 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" |  ¡Un PIKACHU salvaje aparecio!               |")
+			print(" |  ï¿½Un PIKACHU salvaje aparecio!               |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			# PONER A PIkACHU CON ASH DE ESPALDA
 			print("                           ")
@@ -967,7 +967,7 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" |  ¡El profesor ocupo pokeball!                |")
+			print(" |  ï¿½El profesor ocupo pokeball!                |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
@@ -977,11 +977,11 @@ if __name__ == '__main__':
 			# PONER A PIkACHU CON ASH DE ESPALDA
 			print("                           ")
 			print("  PIKACHU                                ")
-			print("      :N5                     ° °      ")
-			print(" | Ps:----------            °     °     ")
-			print(" |______________\\          °-------° ")
-			print("                            °     °  ")
-			print("                              ° ° ")
+			print("      :N5                     ï¿½ ï¿½      ")
+			print(" | Ps:----------            ï¿½     ï¿½     ")
+			print(" |______________\\          ï¿½-------ï¿½ ")
+			print("                            ï¿½     ï¿½  ")
+			print("                              ï¿½ ï¿½ ")
 			print("             ")
 			print("                 ")
 			print("                   ")
@@ -990,34 +990,34 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | ¡Muy bien! ¡PIKACHU fue atrapado!            |")
+			print(" | ï¿½Muy bien! ï¿½PIKACHU fue atrapado!            |")
 			print(" |                                              |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
 			print(" | OAK: Vaya...                                 |")
 			sleep(1)
-			print(" |  ¡Necesitas a tu propio POKéMON como         |")
-			print(" |                         protección           |")
+			print(" |  ï¿½Necesitas a tu propio POKï¿½MON como         |")
+			print(" |                         protecciï¿½n           |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | ¿Yo lo sé!                                   |")
+			print(" | ï¿½Yo lo sï¿½!                                   |")
 			sleep(1)
-			print(" |  ¡Ven conmigo!                               |")
+			print(" |  ï¿½Ven conmigo!                               |")
 			print(" |                                              |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 			print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1032,13 +1032,13 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | ",enemigo1,": ¡Abuelo! ¡Estoy harto de   |")
+			print(" | ",enemigo1,": ï¿½Abuelo! ï¿½Estoy harto de   |")
 			sleep(1)
 			print(" |  esperar!                                    |")
-			print(" |  OAK: ¿",enemigo1,"?                      |")
+			print(" |  OAK: ï¿½",enemigo1,"?                      |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 			print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1053,14 +1053,14 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | OAK: ¿Hum? ¿Qué haces aquí ya?               |")
+			print(" | OAK: ï¿½Hum? ï¿½Quï¿½ haces aquï¿½ ya?               |")
 			sleep(1)
-			print(" |  Te dije que vinieras más  tarde...          |")
+			print(" |  Te dije que vinieras mï¿½s  tarde...          |")
 			sleep(1)
-			print(" |  ¡No importa!    Espera ahí.                 |")
+			print(" |  ï¿½No importa!    Espera ahï¿½.                 |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 			print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1075,14 +1075,14 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | OAK: ¡Mira, ",jugador1,"! ¿Ves la bola que    |")
+			print(" | OAK: ï¿½Mira, ",jugador1,"! ï¿½Ves la bola que    |")
 			sleep(1)
-			print(" |  está en la mesa? Se llama POKéBALL.                           |")
+			print(" |  estï¿½ en la mesa? Se llama POKï¿½BALL.                           |")
 			sleep(1)
-			print(" |  Contiene un POKéMON en su interior.         |")
+			print(" |  Contiene un POKï¿½MON en su interior.         |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 			print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1097,14 +1097,14 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | OAK: ¡Puedes cogerla!                        |")
+			print(" | OAK: ï¿½Puedes cogerla!                        |")
 			sleep(1)
-			print(" |  ¡Es para ti!                                |")
+			print(" |  ï¿½Es para ti!                                |")
 			sleep(1)
-			print(" |  ",enemigo1,": ¡Oye abuelo!                  |")
+			print(" |  ",enemigo1,": ï¿½Oye abuelo!                  |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			print("") # no hay forma directa de borrar la pantalla con Python estandar
 			print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 			print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1119,14 +1119,14 @@ if __name__ == '__main__':
 			print(" @----------------------------------------------@")
 			print(" |                                              |")
 			sleep(2)
-			print(" | ",enemigo1,": ¡Y yo! ¿qué?                  |")
+			print(" | ",enemigo1,": ï¿½Y yo! ï¿½quï¿½?                  |")
 			sleep(1)
-			print(" |  OAK: ¡Tranquilo ",enemigo1,"! Te dare otro |                       |")
+			print(" |  OAK: ï¿½Tranquilo ",enemigo1,"! Te dare otro |                       |")
 			sleep(1)
 			print(" |  a ti mas tarde!                             |")
 			print(" |                                         \\/   |")
 			print(" @----------------------------------------------@")
-			input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+			input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			while True:# no hay 'repetir' en python
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -1142,7 +1142,7 @@ if __name__ == '__main__':
 				print(" @----------------------------------------------@")
 				print(" |                                              |")
 				sleep(2)
-				print(" | OAK: ¡Adelante! ¡Es tuyo!                  |")
+				print(" | OAK: ï¿½Adelante! ï¿½Es tuyo!                  |")
 				print(" |                                              |")
 				print(" |  (presiona 0 para obtener tu pokemon)        |")
 				print(" |                                         \\/   |")
@@ -1181,12 +1181,12 @@ if __name__ == '__main__':
 				print(" @----------------------------------------------@")
 				print(" |                                              |")
 				sleep(2)
-				print(" | ",jugador1," ¡NO! ¡",enemigo1,", quiero a ese|")
+				print(" | ",jugador1," ï¿½NO! ï¿½",enemigo1,", quiero a ese|")
 				print(" |                                              |")
-				print(" |  POKéMON!                                    |")
-				print(" |           ",enemigo1," !Ha cogido el POKéMON!|")
+				print(" |  POKï¿½MON!                                    |")
+				print(" |           ",enemigo1," !Ha cogido el POKï¿½MON!|")
 				print(" @----------------------------------------------@")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 				print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1202,13 +1202,13 @@ if __name__ == '__main__':
 				print("XXXXX|                  (",enemigo1,")    |XXXXXXXX")
 				print(" @----------------------------------------------@")
 				print(" |                                              |")
-				print(" | OAK: ¡",enemigo1,"! ¿Que haces?       |")
-				print(" | ",enemigo1," ¡Abuelo, yo quiero éste!        |")
+				print(" | OAK: ï¿½",enemigo1,"! ï¿½Que haces?       |")
+				print(" | ",enemigo1," ï¿½Abuelo, yo quiero ï¿½ste!        |")
 				sleep(1)
 				print(" | OAK: Pero... Bueno. Vale.                    |")
-				print(" |           Ese POKéMON es tuyo.               |")
+				print(" |           Ese POKï¿½MON es tuyo.               |")
 				print(" @----------------------------------------------@")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 				print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1226,11 +1226,11 @@ if __name__ == '__main__':
 				print(" |                                              |")
 				print(" | OAK: Te iba a dar uno de todos modos...      |")
 				sleep(1)
-				print(" |  ",jugador1,", ven aquí.                   |")
+				print(" |  ",jugador1,", ven aquï¿½.                   |")
 				print(" |                                              |")
 				print(" |                                              |")
 				print(" @----------------------------------------------@")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 				print("XXXXXXXXXX     L A B O R A T O R I O  XXXXXXXXXXX")
@@ -1246,12 +1246,12 @@ if __name__ == '__main__':
 				print("XXXXX|                  (",enemigo1,")    |XXXXXXXX")
 				print(" @----------------------------------------------@")
 				print(" |                                              |")
-				print(" | OAK: ",jugador1,", éste es el POKéMON que  |")
-				print(" |  atrapé antes. Puedes tenerlo.               |")
-				print(" |  Lo cogí en estado salvaje, asi que no es    |")
-				print(" |  manso todavía.                              |")
+				print(" | OAK: ",jugador1,", ï¿½ste es el POKï¿½MON que  |")
+				print(" |  atrapï¿½ antes. Puedes tenerlo.               |")
+				print(" |  Lo cogï¿½ en estado salvaje, asi que no es    |")
+				print(" |  manso todavï¿½a.                              |")
 				print(" @----------------------------------------------@")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 	if opc!=2:
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -1270,7 +1270,7 @@ if __name__ == '__main__':
 		print(" |                                              |")
 		print(" | ",jugador1," !Has adquerido a PIKACHU!       |")
 		print(" @----------------------------------------------@")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		# ***************************************************************
 		# *******POKEMONES POR DEFECTO **********************************
 		# ***************************************************************
@@ -1304,7 +1304,7 @@ if __name__ == '__main__':
 		# ESPECIAL  
 		mipokeh1[4] = 50
 		misalud[0] = mipokeh1[0]
-		nombreataque[0] = "Puño Trueno"
+		nombreataque[0] = "Puï¿½o Trueno"
 		tipoataque[0] = mipoket1[0]
 		pp[0] = "15"
 		efectivo[0] = "100"
@@ -1396,36 +1396,36 @@ if __name__ == '__main__':
 			while True:# no hay 'repetir' en python
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print("                       Exit                     ")
-				print("°°°°°°°°°°°°°°°°°°°°°° [4] °°°°°°°°°°°°°°°°°°°°°")
-				print("°         ______             _________         °")
-				print("°        /------\\           /---------\\        °")
-				print("°       | [_][_] |         | [__] _[_] |       °")
-				print("°   [1] |_||_____|     [2] !_____| |___!       °")
-				print("°                                              °")
-				print("°                                              °")
-				print("°    °°°°°°°[0]          _____________         °")
-				print("°    ~v~v~v~    O       /             \\        °")
-				print("°    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\\       °")
-				print("°           zO /l      \\/[][][] [][][]\\/       °")
-				print("°                       | - - - - - - |        °")
-				print("°     _______           |_RRRR_| |_RRR|        °")
-				print("°    |///////|                                 °")
-				print("°    |///////|          °°°°°°°°[3]°°°°        °")
-				print("°°   |///////|°         v~~v~i~~v~i~v~         °")
-				print("°°°°°°///////°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
+				print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ [4] ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
+				print("ï¿½         ______             _________         ï¿½")
+				print("ï¿½        /------\\           /---------\\        ï¿½")
+				print("ï¿½       | [_][_] |         | [__] _[_] |       ï¿½")
+				print("ï¿½   [1] |_||_____|     [2] !_____| |___!       ï¿½")
+				print("ï¿½                                              ï¿½")
+				print("ï¿½                                              ï¿½")
+				print("ï¿½    ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[0]          _____________         ï¿½")
+				print("ï¿½    ~v~v~v~    O       /             \\        ï¿½")
+				print("ï¿½    v!v!v!v   -|-     /|_ _ _ _ _ _ _|\\       ï¿½")
+				print("ï¿½           zO /l      \\/[][][] [][][]\\/       ï¿½")
+				print("ï¿½                       | - - - - - - |        ï¿½")
+				print("ï¿½     _______           |_RRRR_| |_RRR|        ï¿½")
+				print("ï¿½    |///////|                                 ï¿½")
+				print("ï¿½    |///////|          ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[3]ï¿½ï¿½ï¿½ï¿½        ï¿½")
+				print("ï¿½ï¿½   |///////|ï¿½         v~~v~i~~v~i~v~         ï¿½")
+				print("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½///////ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½")
 				print(" @----------------------------------------------@")
 				print(" |  0.- PUEBLO PALETA                           |")
 				print(" |  1.- Casa de ",jugador1,"                         |")
 				print(" |  2.- Casa de ",enemigo1,"                        |")
-				print(" |  3.- LABORATORIO DE INVESTIGACIÓN  de POKéMON|")
+				print(" |  3.- LABORATORIO DE INVESTIGACIï¿½N  de POKï¿½MON|")
 				print(" |             del PROFESOR OAK                 |")
-				print(" |  99.- Ayuda ¿?                               |")
+				print(" |  99.- Ayuda ï¿½?                               |")
 				print(" @----------------------------------------------@")
 				opc3 = int(input())
 				if opc3==1 or opc3==2 or opc3==3 or opc3==4 or opc3==0 or opc3==99: break
 			if opc3==0:
-				print(" Pueblo Paleta ¡Un lienzo en blanco de tu viaje!")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				print(" Pueblo Paleta ï¿½Un lienzo en blanco de tu viaje!")
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			if opc3==99:
 				print("") # no hay forma directa de borrar la pantalla con Python estandar
 				print(" @----------------------------------------------@")
@@ -1438,7 +1438,7 @@ if __name__ == '__main__':
 				print(" |                 Opcion 2                      |")
 				print(" |          Enfrentamiento 1vs Cpu              |")
 				print(" |           - Batalla uno solo                 |")
-				print(" |           - 6 Pokémon vs 6                   |")
+				print(" |           - 6 Pokï¿½mon vs 6                   |")
 				print(" |                                              |")
 				print(" |                 Opcion 3                      |")
 				print(" |            - Cambiar pokemon                 |")
@@ -1449,7 +1449,7 @@ if __name__ == '__main__':
 				print(" |                                              |")
 				print(" |                                         \\/   |")
 				print(" @----------------------------------------------@")
-				input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+				input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			if opc3==1:
 				while True:# no hay 'repetir' en python
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
@@ -1466,7 +1466,7 @@ if __name__ == '__main__':
 					print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-					print("Eliga una opción :", end="")
+					print("Eliga una opciï¿½n :", end="")
 					opc4 = int(input())
 					if opc4==1 or opc4==2 or opc4==3: break
 				if opc4==1:
@@ -1480,7 +1480,7 @@ if __name__ == '__main__':
 						print("")
 						print("Inventario ",enemigo1)
 						print("1.- ",enepoke[0],"  ",enepokeh1[0])
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						mipokeh1[0] = misalud[0]
 						enepokeh1[0] = enesalud[0]
 						print("")
@@ -1498,7 +1498,7 @@ if __name__ == '__main__':
 						print("")
 						print("Inventario ",enemigo1)
 						print("1.- ",enepoke[0],"  ",enepokeh1[0])
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					else:
 						print("") # no hay forma directa de borrar la pantalla con Python estandar
 						print("")
@@ -1519,7 +1519,7 @@ if __name__ == '__main__':
 						print("4.- ",enepoke[3],"  ",enepokeh4[0])
 						print("5.- ",enepoke[4],"  ",enepokeh5[0])
 						print("6.- ",enepoke[5],"  ",enepokeh6[0])
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						mipokeh1[0] = misalud[0]
 						mipokeh2[0] = misalud[1]
 						mipokeh3[0] = misalud[2]
@@ -1537,7 +1537,7 @@ if __name__ == '__main__':
 						sleep(2)
 						print("")
 						print("Se han curado tus pokemones")
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						print("") # no hay forma directa de borrar la pantalla con Python estandar
 						print(" V A  L O R E S     R E N O V A D O S ")
 						print("")
@@ -1558,7 +1558,7 @@ if __name__ == '__main__':
 						print("4.- ",enepoke[3],"  ",enepokeh4[0])
 						print("5.- ",enepoke[4],"  ",enepokeh5[0])
 						print("6.- ",enepoke[5],"  ",enepokeh6[0])
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 				if opc4==2:
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -1574,7 +1574,7 @@ if __name__ == '__main__':
 					print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			# *************************************************************BATALLAS OPCION 2**********************************
 			# *************************************************************BATALLAS OPCION 2**********************************
 			# *************************************************************BATALLAS OPCION 2**********************************
@@ -1593,12 +1593,12 @@ if __name__ == '__main__':
 						print("XXXXXXXXXX|   1.- 1 V/s 1             |XXXXXXXXXX")
 						print("XXXXXXXXXX|                           |XXXXXXXXXX")
 						print("XXXXXXXXXX|                           |XXXXXXXXXX")
-						print("XXXXXXXXXX|   2.- Duelo 6 POKéMON     |XXXXXXXXXX")
+						print("XXXXXXXXXX|   2.- Duelo 6 POKï¿½MON     |XXXXXXXXXX")
 						print("XXXXXXXXXX|                           |XXXXXXXXXX")
 						print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 						print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXXX")
 						print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-						print("Eliga una opción :", end="")
+						print("Eliga una opciï¿½n :", end="")
 						opc6 = int(input())
 						if opc6==1 or opc6==2 or opc6==3: break
 					# ********************************************************************
@@ -1612,24 +1612,24 @@ if __name__ == '__main__':
 						enetotalsalud = enepokeh1[0]+enepokeh2[0]+enepokeh3[0]+enepokeh4[0]+enepokeh5[0]+enepokeh6[0]
 					if cantidadpoke==1:
 						if totalsalud==0:
-							print("Ve de inmediato a curar a tu Pokémon")
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							print("Ve de inmediato a curar a tu Pokï¿½mon")
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						if enetotalsalud==0 and totalsalud>0:
-							print("El Pokémon de ",enemigo1," está debilidato. ")
+							print("El Pokï¿½mon de ",enemigo1," estï¿½ debilidato. ")
 							print("Ve a Curar a tu Pikachu y curaras al EEVEE de ",enemigo1)
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					if cantidadpoke==6:
 						if totalsalud==0:
-							print("Ve de inmediato a curar a tus Pokémon")
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							print("Ve de inmediato a curar a tus Pokï¿½mon")
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						if enetotalsalud==0 and totalsalud>0:
-							print("Los Pokémon de ",enemigo1," estan debilidatos")
+							print("Los Pokï¿½mon de ",enemigo1," estan debilidatos")
 							print("Ve a Curar los tuyos y curaras lo de el tambien")
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						if enetotalsalud>0 and totalsalud==0:
-							print("¡",jugador1,"Tus Pokémon estan debilidatos!")
+							print("ï¿½",jugador1,"Tus Pokï¿½mon estan debilidatos!")
 							print("Ve a curarlos a tu casa")
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					if opc6==2:
 						if cantidadpoke==6:
 							if (mipokeh1[0]>0 and mipokeh2[0]>0 and mipokeh3[0]>0 and mipokeh4[0]>0 and mipokeh5[0]>0 and mipokeh6[0]>0) and (enepokeh1[0]>0 and enepokeh2[0]>0 and enepokeh3[0]>0 and enepokeh4[0]>0 and enepokeh5[0]>0 and enepokeh6[0]>0):
@@ -1643,7 +1643,7 @@ if __name__ == '__main__':
 							while True:# no hay 'repetir' en python
 								print("") # no hay forma directa de borrar la pantalla con Python estandar
 								print("")
-								print("       ¿Que pokemon vas a usar?")
+								print("       ï¿½Que pokemon vas a usar?")
 								print("")
 								print("Lista de tus pokemones            |   Lista de los pokemones enemigos ")
 								print("             Nivel                            Nivel")
@@ -1696,27 +1696,27 @@ if __name__ == '__main__':
 								print("6.- ",mipoke[5],"  ",minivel[5],"     ",life[5],"        |          ",enepoke[5],"  ",enenivel[5],"     ",life[11])
 								print("")
 								print("")
-								print("                                                  Opción 0 VOLVER")
+								print("                                                  Opciï¿½n 0 VOLVER")
 								opcmipoke = int(input())
 								start = True
 								if opcmipoke==1 and mipokeh1[0]==0:
-									print("Pokémon ",mipoke[0]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[0]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==2 and mipokeh2[0]==0:
-									print("Pokémon ",mipoke[1]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[1]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==3 and mipokeh3[0]==0:
-									print("Pokémon ",mipoke[2]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[2]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==4 and mipokeh4[0]==0:
-									print("Pokémon ",mipoke[3]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[3]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==5 and mipokeh5[0]==0:
-									print("Pokémon ",mipoke[4]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[4]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==6 and mipokeh6[0]==0:
-									print("Pokémon ",mipoke[5]," debilitado, ve al laboratorio para Curarlo")
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("Pokï¿½mon ",mipoke[5]," debilitado, ve al laboratorio para Curarlo")
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcmipoke==1 and mipokeh1[0]>0 or opcmipoke==2 and mipokeh2[0]>0 or opcmipoke==3 and mipokeh3[0]>0 or opcmipoke==4 and mipokeh4[0]>0 or opcmipoke==5 and mipokeh5[0]>0 or opcmipoke==6 and mipokeh6[0]>0 or opcmipoke==0: break
 						# ****************************************************************************************
 						# ****************************************************************************************
@@ -1782,34 +1782,34 @@ if __name__ == '__main__':
 									print("6.- ",mipoke[5],"  ",minivel[5],"     ",life[5],"        |          ",enepoke[5],"  ",enenivel[5],"     ",life[11])
 									print("")
 									print("")
-									print("                                                  Opción 0 VOLVER")
+									print("                                                  Opciï¿½n 0 VOLVER")
 									opcmipoke = int(input())
 									start = True
 									if opcmipoke==1 and mipokeh1[0]==0:
-										print("Pokémon ",mipoke[0]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[0]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==2 and mipokeh2[0]==0:
-										print("Pokémon ",mipoke[1]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[1]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==3 and mipokeh3[0]==0:
-										print("Pokémon ",mipoke[2]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[2]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==4 and mipokeh4[0]==0:
-										print("Pokémon ",mipoke[3]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[3]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==5 and mipokeh5[0]==0:
-										print("Pokémon ",mipoke[4]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[4]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==6 and mipokeh6[0]==0:
-										print("Pokémon ",mipoke[5]," debilitado, ve al laboratorio para Curarlo")
-										input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+										print("Pokï¿½mon ",mipoke[5]," debilitado, ve al laboratorio para Curarlo")
+										input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 									if opcmipoke==1 and mipokeh1[0]>0 or opcmipoke==2 and mipokeh2[0]>0 or opcmipoke==3 and mipokeh3[0]>0 or opcmipoke==4 and mipokeh4[0]>0 or opcmipoke==5 and mipokeh5[0]>0 or opcmipoke==6 and mipokeh6[0]>0 or opcmipoke==0: break
 							else:
 								if cantidadpoke==1:
-									print(jugador1," tienes que tener 6 Pokémon para poder jugar")
+									print(jugador1," tienes que tener 6 Pokï¿½mon para poder jugar")
 									sleep(2)
 								if cantidadpoke==6:
-									print(jugador1,"¡Los pokemones no tienen toda sus vidas!")
+									print(jugador1,"ï¿½Los pokemones no tienen toda sus vidas!")
 									sleep(3)
 								opcmipoke = 0
 								mihp = False
@@ -2195,7 +2195,7 @@ if __name__ == '__main__':
 								if enesaludpoke<=0:
 									enesaludpoke = 0
 									enesaludfija = enesaludpoke
-									print("Pokémon enemigo bajo de vida")
+									print("Pokï¿½mon enemigo bajo de vida")
 									sleep(2)
 								else:
 									enesaludpoke = enesaludpoke+((enelvl-1)*3)
@@ -2204,7 +2204,7 @@ if __name__ == '__main__':
 								if misaludpoke<=0:
 									misaludpoke = 0
 									misaludfija = misaludpoke
-									print("Pokémon Bajo de vida ",jugador1)
+									print("Pokï¿½mon Bajo de vida ",jugador1)
 									sleep(2)
 								else:
 									misaludpoke = misaludpoke+((milvl-1)*3)
@@ -2239,16 +2239,16 @@ if __name__ == '__main__':
 									print("                             |       ")
 									print("                             | ")
 									print("                             |-----------------")
-									print("°------------------------------------------------°")
-									print("|   ",enemigo1," Envió a ",enenombrepoke)
+									print("ï¿½------------------------------------------------ï¿½")
+									print("|   ",enemigo1," Enviï¿½ a ",enenombrepoke)
 									print("|   ")
-									print("°------------------------------------------------°")
+									print("ï¿½------------------------------------------------ï¿½")
 									sleep(2)
 						while mihp==True and enehp==True:
 							# Visual grafico
 							while True:# no hay 'repetir' en python
 								print("") # no hay forma directa de borrar la pantalla con Python estandar
-								print("                                 0 = Pokédex (Ayuda)")
+								print("                                 0 = Pokï¿½dex (Ayuda)")
 								print("|----------------------")
 								print("| ",enenombrepoke)
 								print("|              Nv ",enelvl)
@@ -2264,10 +2264,10 @@ if __name__ == '__main__':
 								print("     /_\\      /_\\            |        Nv ",milvl)
 								print("       |      |              | Ps : ",misaludpoke,"/",misaludfija)
 								print("      /_\\____/_\\             |-----------------")
-								print("°------------------------------------------------°")
+								print("ï¿½------------------------------------------------ï¿½")
 								print("|   [1]",minombreataque[0],"(",mipp[0],"/",mifijopp[0],")        [2]",minombreataque[1],"(",mipp[1],"/",mifijopp[1],")")
 								print("|   [3]",minombreataque[2],"(",mipp[2],"/",mifijopp[2],")        [4]",minombreataque[3],"(",mipp[3],"/",mifijopp[3],")")
-								print("°------------------------------------------------°")
+								print("ï¿½------------------------------------------------ï¿½")
 								opcionataque = int(input())
 								if opcionataque==0:
 									print("") # no hay forma directa de borrar la pantalla con Python estandar
@@ -2277,34 +2277,34 @@ if __name__ == '__main__':
 									print("Pokemon Enemigo :",enenombrepoke," Nivel ",enelvl)
 									print("         Tipo pokemon: ",enetipo[0],"/",enetipo[1],"    Ps: ",enesaludpoke)
 									print("                        Defensa: ",enedefensapoke,"  Velocidad: ",enevelocidadpoke)
-									print("ATAQUES Pokémon")
-									print("1.- ",enenombreataque[0]," | Tipo : ",enetipoa[0]," | pp : ",enepp[0],"  daño: ",enedano[0])
-									print("2.- ",enenombreataque[1]," | Tipo : ",enetipoa[1]," | pp : ",enepp[1],"  daño: ",enedano[1])
-									print("3.- ",enenombreataque[2]," | Tipo : ",enetipoa[2]," | pp : ",enepp[2],"  daño: ",enedano[2])
-									print("4.- ",enenombreataque[3]," | Tipo : ",enetipoa[3]," | pp : ",enepp[3],"  daño: ",enedano[3])
+									print("ATAQUES Pokï¿½mon")
+									print("1.- ",enenombreataque[0]," | Tipo : ",enetipoa[0]," | pp : ",enepp[0],"  daï¿½o: ",enedano[0])
+									print("2.- ",enenombreataque[1]," | Tipo : ",enetipoa[1]," | pp : ",enepp[1],"  daï¿½o: ",enedano[1])
+									print("3.- ",enenombreataque[2]," | Tipo : ",enetipoa[2]," | pp : ",enepp[2],"  daï¿½o: ",enedano[2])
+									print("4.- ",enenombreataque[3]," | Tipo : ",enetipoa[3]," | pp : ",enepp[3],"  daï¿½o: ",enedano[3])
 									print("")
 									print("",jugador1)
-									print("Nombre Pokémon:",minombrepoke," Nivel ",milvl)
+									print("Nombre Pokï¿½mon:",minombrepoke," Nivel ",milvl)
 									print("         Tipo pokemon: ",mitipo[0],"/",mitipo[1],"      Ps: ",misaludpoke)
 									print("                          Defensa: ",midefensapoke,"  Velocidad: ",mivelocidadpoke)
-									print("ATAQUES Pokémon")
-									print("1.- ",minombreataque[0]," | Tipo : ",mitipoa[0]," | pp : ",mipp[0],"  daño: ",midano[0])
-									print("2.- ",minombreataque[1]," | Tipo : ",mitipoa[1]," | pp : ",mipp[1],"  daño: ",midano[1])
-									print("3.- ",minombreataque[2]," | Tipo : ",mitipoa[2]," | pp : ",mipp[2],"  daño: ",midano[2])
-									print("4.- ",minombreataque[3]," | Tipo : ",mitipoa[3]," | pp : ",mipp[3],"  daño: ",midano[3])
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									print("ATAQUES Pokï¿½mon")
+									print("1.- ",minombreataque[0]," | Tipo : ",mitipoa[0]," | pp : ",mipp[0],"  daï¿½o: ",midano[0])
+									print("2.- ",minombreataque[1]," | Tipo : ",mitipoa[1]," | pp : ",mipp[1],"  daï¿½o: ",midano[1])
+									print("3.- ",minombreataque[2]," | Tipo : ",mitipoa[2]," | pp : ",mipp[2],"  daï¿½o: ",midano[2])
+									print("4.- ",minombreataque[3]," | Tipo : ",mitipoa[3]," | pp : ",mipp[3],"  daï¿½o: ",midano[3])
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcionataque==1 and mipp[0]==0:
 									print("No tienes pp para hacer el ataque ",mitipoa[0])
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcionataque==2 and mipp[1]==0:
 									print("No tienes pp para hacer el ataque ",mitipoa[1])
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcionataque==3 and mipp[2]==0:
 									print("No tienes pp para hacer el ataque ",mitipoa[2])
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcionataque==4 and mipp[3]==0:
 									print("No tienes pp para hacer el ataque ",mitipoa[3])
-									input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+									input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 								if opcionataque==1 and mipp[0]>0 or opcionataque==2 and mipp[1]>0 or opcionataque==3 and mipp[2]>0 or opcionataque==4 and mipp[3]>0: break
 							if paralizadoa==True:
 								opcionataque = 99
@@ -2468,13 +2468,13 @@ if __name__ == '__main__':
 							if mie==0.5:
 								miestado = "Poco Eficaz"
 							if mie==1:
-								miestado = "Daño normal"
+								miestado = "Daï¿½o normal"
 							if mie==2:
 								miestado = "Muy Efectivo"
 							# eneDefensaPoke = Defensa del pokemon
 							# definir tipo de ataque, especial o normal
 							# ################################################################################################
-							# ########################### D A Ñ O   P O R  EL TIPO #########################
+							# ########################### D A ï¿½ O   P O R  EL TIPO #########################
 							# ################################################################################################
 							# ################################################################################################
 							estadoa = ""
@@ -2486,7 +2486,7 @@ if __name__ == '__main__':
 							# Estado favorable para el enemigo
 							eneest = ""
 							if tipoe=="FUEGO" and miataque!="Giro Fuego" and (enetipo[0]!="FUEGO" or enetipo[1]!="FUEGO"):
-								if (miataque=="Ascuas" or miataque=="Lanza Llamas" or miataque=="Puño Fuego") and suerte<=30:
+								if (miataque=="Ascuas" or miataque=="Lanza Llamas" or miataque=="Puï¿½o Fuego") and suerte<=30:
 									estadoa = "Quemado"
 							# Disparo demoras baja un nivel de velocidad del pokemon enemigo, osea le resta "1".
 							if miataque=="Disparo Demoras":
@@ -2499,7 +2499,7 @@ if __name__ == '__main__':
 										if suerte<=20:
 											estadoa = "Paralizado"
 									suerte = randint(0,100)
-									if suerte<=20 and miataque=="Puño Trueno":
+									if suerte<=20 and miataque=="Puï¿½o Trueno":
 										estadoa = "Paralizado"
 									if suerte<=30 and miataque=="Rayo":
 										estadoa = "Paralizado"
@@ -2507,7 +2507,7 @@ if __name__ == '__main__':
 										estadoa = "Paralizado"
 							# CONGELAR
 							if tipoe=="HIELO":
-								if (miataque=="Rayo Hielo" or miataque=="Vendisca" or miataque=="Puño Hielo") and suerte<=29 and (enetipo[0]!="HIELO" or enetipo[1]!="HIELO"):
+								if (miataque=="Rayo Hielo" or miataque=="Vendisca" or miataque=="Puï¿½o Hielo") and suerte<=29 and (enetipo[0]!="HIELO" or enetipo[1]!="HIELO"):
 									estadoa = "Congelado"
 							if tipoe=="VENENO":
 								if (mitipo[0]=="VENENO" or mitipo[1]=="VENENO") and miataque=="Toxico" and (enetipo[0]!="VENENO" or enetipo[1]!="VENENO"):
@@ -2555,7 +2555,7 @@ if __name__ == '__main__':
 								mipoderataque = 70
 							else:
 								if miataque=="Patada Salto" and suerte>30:
-									miest = "Me hice daño"
+									miest = "Me hice daï¿½o"
 									misaludpoke = misaludpoke-(misaludpoke/8)
 									misaludpoke = int(misaludpoke)
 							# Descanso
@@ -2569,13 +2569,13 @@ if __name__ == '__main__':
 							if miataque=="Amnesia":
 								estadoa = "masVelocidad"
 							# Golpe Karate 
-							# Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daño critico
+							# Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daï¿½o critico
 							if miataque=="Golpe Karate":
 								if suerte>=60:
 									miest = "ha hecho un Critico favorable"
 									mie = 6
 							# Tienieblas
-							# Tienielas es un ataque tipo fantasma que hace un daño al enemigo, igual al del nivel del atacante
+							# Tienielas es un ataque tipo fantasma que hace un daï¿½o al enemigo, igual al del nivel del atacante
 							if miataque=="Tinieblas" and (enetipo[0]!="NORMAL" or enetipo[1]!="NORMAL"):
 								enesaludpoke = enesaludpoke-milvl
 								enesaludpoke = int(enesaludpoke)
@@ -2657,7 +2657,7 @@ if __name__ == '__main__':
 								estadofe = "ha drenado vida oponente"
 							if estadoa=="Debilitado":
 								enesaludpoke = 0
-								estadofe = "El Pokémon enemigo esta debilitado"
+								estadofe = "El Pokï¿½mon enemigo esta debilitado"
 								paralizadoe = True
 							if estadoa=="Confundido":
 								estadofe = "esta confundido"
@@ -2667,10 +2667,10 @@ if __name__ == '__main__':
 									enesaludpoke = int(enesaludpoke)
 							# ################################################################################################
 							# ################################################################################################
-							# Calculo del daño
+							# Calculo del daï¿½o
 							mitotaldano = 0.01*b*mie*v*((((0.2+milvl+1)*ataquepoke*mipoderataque)/(25*enedefensapoke))+2)
 							mitotaldano = int(mitotaldano)
-							# ************************* Enemigo  CALCULO DE DAÑO
+							# ************************* Enemigo  CALCULO DE DAï¿½O
 							while True:# no hay 'repetir' en python
 								opcionataque = randint(0,4)
 								if opcionataque==1 and enepp[0]>0 or opcionataque==2 and enepp[1]>0 or opcionataque==3 and enepp[2]>0 or opcionataque==4 and enepp[3]>0: break
@@ -2824,12 +2824,12 @@ if __name__ == '__main__':
 							if mie==0.5:
 								eneestado = "Poco Eficaz"
 							if mie==1:
-								eneestado = "Daño normal"
+								eneestado = "Daï¿½o normal"
 							if mie==2:
 								eneestado = "Muy Efectivo"
 							# definir tipo de ataque, especial o normal
 							# ################################################################################################
-							# ########################### D A Ñ O   P O R  EL TIPO #########################
+							# ########################### D A ï¿½ O   P O R  EL TIPO #########################
 							# ################################################################################################
 							# ################################################################################################
 							estadoe = ""
@@ -2838,7 +2838,7 @@ if __name__ == '__main__':
 							# Estado favorable para el enemigo
 							eneest = ""
 							if tipox=="FUEGO" and eneataque!="Giro Fuego" and (mitipo[0]!="FUEGO" or mitipo[1]!="FUEGO"):
-								if (eneataque=="Ascuas" or eneataque=="Lanza Llamas" or eneataque=="Puño Fuego") and suerte<=30:
+								if (eneataque=="Ascuas" or eneataque=="Lanza Llamas" or eneataque=="Puï¿½o Fuego") and suerte<=30:
 									estadoe = "Quemado"
 							# Disparo demoras baja un nivel de velocidad del pokemon enemigo, osea le resta "1".
 							if eneataque=="Disparo Demoras":
@@ -2851,7 +2851,7 @@ if __name__ == '__main__':
 										if suerte<=20:
 											estadoe = "Paralizado"
 									suerte = randint(0,100)
-									if suerte<=20 and eneataque=="Puño Trueno":
+									if suerte<=20 and eneataque=="Puï¿½o Trueno":
 										estadoe = "Paralizado"
 									if suerte<=30 and eneataque=="Rayo":
 										estadoe = "Paralizado"
@@ -2862,7 +2862,7 @@ if __name__ == '__main__':
 									estadoe = "Paralizado"
 							# CONGELAR
 							if tipox=="HIELO":
-								if (eneataque=="Rayo Hielo" or eneataque=="Vendisca" or eneataque=="Puño Hielo") and suerte<=29 and (mitipo[0]!="HIELO" or mitipo[1]!="HIELO"):
+								if (eneataque=="Rayo Hielo" or eneataque=="Vendisca" or eneataque=="Puï¿½o Hielo") and suerte<=29 and (mitipo[0]!="HIELO" or mitipo[1]!="HIELO"):
 									estadoe = "Congelado"
 							if tipox=="VENENO":
 								if (enetipo[0]=="VENENO" or enetipo[1]=="VENENO") and eneataque=="Toxico" and (mitipo[0]!="VENENO" or mitipo[1]!="VENENO"):
@@ -2910,7 +2910,7 @@ if __name__ == '__main__':
 								enepoderataque = 70
 							else:
 								if eneataque=="Patada Salto" and suerte>30:
-									eneest = "se ha hecho daño"
+									eneest = "se ha hecho daï¿½o"
 									enesaludpoke = enesaludpoke-(enesaludpoke/8)
 									enesaludpoke = int(enesaludpoke)
 							# Descanso
@@ -2924,13 +2924,13 @@ if __name__ == '__main__':
 							if eneataque=="Amnesia":
 								estadoe = "masVelocidad"
 							# Golpe Karate 
-							# Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daño critico
+							# Golpe Karate es Tipo Normal en esta generacion y tiene un alto porcentaje de daï¿½o critico
 							if eneataque=="Golpe Karate":
 								if suerte>=60:
 									eneest = "ha hecho un Critico"
 									mie = 6
 							# Tienieblas
-							# Tienielas es un ataque tipo fantasma que hace un daño al enemigo, igual al del nivel del atacante
+							# Tienielas es un ataque tipo fantasma que hace un daï¿½o al enemigo, igual al del nivel del atacante
 							if eneataque=="Tinieblas" and (mitipo[0]!="NORMAL" or mitipo[1]!="NORMAL"):
 								misaludpoke = misaludpoke-enelvl
 								misaludpoke = int(misaludpoke)
@@ -3013,7 +3013,7 @@ if __name__ == '__main__':
 								estadofa = "ha drenado vida"
 							if estadoe=="Debilitado":
 								misaludpoke = 0
-								estadofa = "El Pokémon enemigo esta debilitado"
+								estadofa = "El Pokï¿½mon enemigo esta debilitado"
 								paralizadoa = True
 							if estadoe=="Confundido":
 								estadofa = "esta confundido"
@@ -3025,20 +3025,20 @@ if __name__ == '__main__':
 							# ################################################################################################
 							enetotaldano = 0.01*b*mie*v*((((0.2+enelvl+1)*ataquepoke*enepoderataque)/(25*midefensapoke))+2)
 							enetotaldano = int(enetotaldano)
-							# ¿Quien Ataca Primero ? 
+							# ï¿½Quien Ataca Primero ? 
 							miv = randint(0,mivelocidadpoke)
 							enev = randint(0,enevelocidadpoke)
 							if paralizadoa==False and paralizadoe==False:
 								if miv>=enev:
 									print("Has Ganado en velocidad")
 									enesaludpoke = enesaludpoke-mitotaldano
-									print("¡",minombrepoke," usó ",miataque,"!")
+									print("ï¿½",minombrepoke," usï¿½ ",miataque,"!")
 									sleep(2)
 									if miest!="":
-										print("¡mi Pokémon ",minombrepoke," ",miest,"!")
+										print("ï¿½mi Pokï¿½mon ",minombrepoke," ",miest,"!")
 										sleep(2)
 									if estadofe!="":
-										print("¡El Pokémon ",enenombrepoke," ",estadofe,"!")
+										print("ï¿½El Pokï¿½mon ",enenombrepoke," ",estadofe,"!")
 										sleep(2)
 									if enesaludpoke<=0:
 										# Batalla termino
@@ -3048,13 +3048,13 @@ if __name__ == '__main__':
 										enesaludpoke = 0
 									if enesaludpoke>0:
 										misaludpoke = misaludpoke-enetotaldano
-										print("¡Enemigo ",enenombrepoke," usó ",eneataque,"!")
+										print("ï¿½Enemigo ",enenombrepoke," usï¿½ ",eneataque,"!")
 										sleep(2)
 										if eneest!="":
-											print("¡Enemigo Pokémon ",enenombrepoke," ",eneest,"!")
+											print("ï¿½Enemigo Pokï¿½mon ",enenombrepoke," ",eneest,"!")
 											sleep(2)
 										if estadofa!="":
-											print("¡mi Pokémon ",minombrepoke," ",estadofa,"!")
+											print("ï¿½mi Pokï¿½mon ",minombrepoke," ",estadofa,"!")
 											sleep(2)
 										if misaludpoke<=0:
 											print("Ha muerto tu pokemon")
@@ -3063,13 +3063,13 @@ if __name__ == '__main__':
 								if enev>miv:
 									print("El ha Ganado en velocidad")
 									misaludpoke = misaludpoke-enetotaldano
-									print("¡Enemigo ",enenombrepoke," usó ",eneataque,"!")
+									print("ï¿½Enemigo ",enenombrepoke," usï¿½ ",eneataque,"!")
 									sleep(2)
 									if eneest!="":
-										print("¡Enemigo Pokémon ",enenombrepoke," ",eneest,"!")
+										print("ï¿½Enemigo Pokï¿½mon ",enenombrepoke," ",eneest,"!")
 										sleep(2)
 									if estadofa!="":
-										print("¡mi Pokémon ",minombrepoke," ",estadofa,"!")
+										print("ï¿½mi Pokï¿½mon ",minombrepoke," ",estadofa,"!")
 										sleep(2)
 									if misaludpoke<=0:
 										# Batalla termino
@@ -3078,13 +3078,13 @@ if __name__ == '__main__':
 										mihp = False
 									if misaludpoke>0:
 										enesaludpoke = enesaludpoke-mitotaldano
-										print("¡",minombrepoke," usó ",miataque,"!")
+										print("ï¿½",minombrepoke," usï¿½ ",miataque,"!")
 										sleep(2)
 										if miest!="":
-											print("¡mi Pokémon ",minombrepoke," ",miest,"!")
+											print("ï¿½mi Pokï¿½mon ",minombrepoke," ",miest,"!")
 											sleep(2)
 										if estadofe!="":
-											print("¡El Pokémon ",enenombrepoke," ",estadofe,"!")
+											print("ï¿½El Pokï¿½mon ",enenombrepoke," ",estadofe,"!")
 											sleep(2)
 										if enesaludpoke<=0:
 											print("Ha muerto el pokemon enemigo")
@@ -3095,12 +3095,12 @@ if __name__ == '__main__':
 							# paralizadoE = enemigo paralizado  Falso= cuando no esta
 							# EL ATACA
 							if paralizadoa==True and paralizadoe==False:
-								print("¡Estas ",estadofa,"!")
+								print("ï¿½Estas ",estadofa,"!")
 								misaludpoke = misaludpoke-enetotaldano
-								print("¡Enemigo ",enenombrepoke," usó ",eneataque,"!")
+								print("ï¿½Enemigo ",enenombrepoke," usï¿½ ",eneataque,"!")
 								# Esperar 2 Segundos;        
 								if misaludpoke<0:
-									print("Ha muerto tu Pokémon")
+									print("Ha muerto tu Pokï¿½mon")
 									mihp = False
 									misaludpoke = 0
 								paralizadoa = False
@@ -3109,9 +3109,9 @@ if __name__ == '__main__':
 							# YO ATACO
 							if paralizadoa==False and paralizadoe==True:
 								# en el caso que yo 
-								print("¡",enenombrepoke," esta ",estadofe,"!")
+								print("ï¿½",enenombrepoke," esta ",estadofe,"!")
 								enesaludpoke = enesaludpoke-mitotaldano
-								print("¡",minombrepoke," usó ",miataque,"!")
+								print("ï¿½",minombrepoke," usï¿½ ",miataque,"!")
 								# Esperar 2 Segundos;
 								if enesaludpoke<=0:
 									print("Ha muerto el pokemon enemigo")
@@ -3123,8 +3123,8 @@ if __name__ == '__main__':
 								estadofe = ""
 							# LOS DOS ESTAMOS DORMIDOS
 							if paralizadoa==True and paralizadoe==True:
-								print("¡",enenombrepoke," esta ",estadofe,"!")
-								print("¡",minombrepoke," esta ",estadofa,"!")
+								print("ï¿½",enenombrepoke," esta ",estadofe,"!")
+								print("ï¿½",minombrepoke," esta ",estadofa,"!")
 								paralizadoa = False
 								paralizadoe = False
 								estadofe = ""
@@ -3151,11 +3151,11 @@ if __name__ == '__main__':
 									print("     /_\\      /_\\            |        Nv ",milvl)
 									print("       |      |              | Ps : ",misaludpoke,"/",misaludfija)
 									print("      /_\\____/_\\             |-----------------")
-									print("°------------------------------------------------°")
-									print("|  ¡Pokémon ",enenombrepoke," debilitado!")
+									print("ï¿½------------------------------------------------ï¿½")
+									print("|  ï¿½Pokï¿½mon ",enenombrepoke," debilitado!")
 									sleep(1)
-									print("|   ¡",jugador1," has ganado este combate!")
-									print("°------------------------------------------------°")
+									print("|   ï¿½",jugador1," has ganado este combate!")
+									print("ï¿½------------------------------------------------ï¿½")
 								if misaludpoke==0:
 									if opc6==2:
 										enecontwin = enecontwin+1
@@ -3176,11 +3176,11 @@ if __name__ == '__main__':
 									print("       /  !   \\              |        Nv ",milvl)
 									print("      I     !  I             | Ps : 0/",misaludfija)
 									print("     /_\\  !   /_\\            |-----------------")
-									print("°------------------------------------------------°")
-									print("|  ¡Tu Pokémon ",minombrepoke," se ha debilitado!")
+									print("ï¿½------------------------------------------------ï¿½")
+									print("|  ï¿½Tu Pokï¿½mon ",minombrepoke," se ha debilitado!")
 									sleep(1)
-									print("|   ¡",enemigo1," ha ganado este combate!")
-									print("°------------------------------------------------°")
+									print("|   ï¿½",enemigo1," ha ganado este combate!")
+									print("ï¿½------------------------------------------------ï¿½")
 								if opcmipoke==1:
 									mipokeh1[0] = misaludpoke
 									for contx in range(4):
@@ -3235,7 +3235,7 @@ if __name__ == '__main__':
 								if cantidadpoke==6:
 									totalsalud = mipokeh1[0]+mipokeh2[0]+mipokeh3[0]+mipokeh4[0]+mipokeh5[0]+mipokeh6[0]
 									enetotalsalud = enepokeh1[0]+enepokeh2[0]+enepokeh3[0]+enepokeh4[0]+enepokeh5[0]+enepokeh6[0]
-							input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+							input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					if micontwin==6:
 						print("") # no hay forma directa de borrar la pantalla con Python estandar
 						print("  ")
@@ -3254,12 +3254,12 @@ if __name__ == '__main__':
 						print("     /_\\      /_\\            |       ")
 						print("       |      |              | G A N A D O R ")
 						print("      /_\\____/_\\             |-----------------")
-						print("°------------------------------------------------°")
-						print("|  ",enemigo1,": ¡Maldito! ¡me has ganado!")
+						print("ï¿½------------------------------------------------ï¿½")
+						print("|  ",enemigo1,": ï¿½Maldito! ï¿½me has ganado!")
 						sleep(1)
-						print("|  ¡Nos volveremos a encontrar y te pateare el trasero!")
-						print("°------------------------------------------------°")
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						print("|  ï¿½Nos volveremos a encontrar y te pateare el trasero!")
+						print("ï¿½------------------------------------------------ï¿½")
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						micontwin = 0
 						enecontwin = 0
 					if enecontwin==6:
@@ -3280,12 +3280,12 @@ if __name__ == '__main__':
 						print("       /  !   \\              | ")
 						print("      I     !  I             |  P E R D E D O R ")
 						print("     /_\\  !   /_\\            |-----------------")
-						print("°------------------------------------------------°")
-						print("|  ¡Te he ganado ",jugador1,", eres muy malo!")
+						print("ï¿½------------------------------------------------ï¿½")
+						print("|  ï¿½Te he ganado ",jugador1,", eres muy malo!")
 						sleep(1)
-						print("|   ¡Nos volveremos a ver, sigue entrenando !")
-						print("°------------------------------------------------°")
-						input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+						print("|   ï¿½Nos volveremos a ver, sigue entrenando !")
+						print("ï¿½------------------------------------------------ï¿½")
+						input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 						micontwin = 0
 						enecontwin = 0
 				else:
@@ -3294,7 +3294,7 @@ if __name__ == '__main__':
 					print("")
 					print("Te Falta asignar pokemones a tu inventario")
 					print("")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 			# **********************************************************LABORATORIO**** OPCION 3 **************************
 			# **********************************************************LABORATORIO**** OPCION 3 **************************
 			# **********************************************************LABORATORIO**** OPCION 3 **************************
@@ -3314,26 +3314,26 @@ if __name__ == '__main__':
 					print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX [3] Volver XXXXXXX")
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-					print("Eliga una opción :", end="")
+					print("Eliga una opciï¿½n :", end="")
 					opc5 = int(input())
 					if opc5==1 or opc5==2 or opc5==3: break
 				if opc5==2:
 					if cantidadpoke==1:
 						print("")
-						print("¡Reiniciando PP tu Pokémon ",jugador1,"!")
+						print("ï¿½Reiniciando PP tu Pokï¿½mon ",jugador1,"!")
 						sleep(2)
 						print("")
-						print("¡Reiniciando PP de los Pokémon ",enemigo1,"!")
+						print("ï¿½Reiniciando PP de los Pokï¿½mon ",enemigo1,"!")
 						sleep(2)
 						for contx in range(4):
 							ppa1[contx] = ppfa1[contx]
 							ppe1[contx] = ppfe1[contx]
 					if cantidadpoke==6:
 						print("")
-						print("¡Reiniciando PP de tus Pokémon ",jugador1,"!")
+						print("ï¿½Reiniciando PP de tus Pokï¿½mon ",jugador1,"!")
 						sleep(2)
 						print("")
-						print("¡Reiniciando PP de los Pokémon ",enemigo1,"!")
+						print("ï¿½Reiniciando PP de los Pokï¿½mon ",enemigo1,"!")
 						sleep(2)
 						for contx in range(4):
 							ppa1[contx] = ppfa1[contx]
@@ -3361,12 +3361,12 @@ if __name__ == '__main__':
 					print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 					print("")
 					print("       PRESIONES CUALQUIER TECLA PARA CONTINUAR")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					# ***************************************************************LISTA DE POKEMONES**************************
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("            INVENTARIO                             POKEDEX                   INVENTARIO")
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #1     | BULBASAUR   |  PLANTA  |  VENENO |   45    |   49     |   49    |    45     |    65    |   253   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3388,11 +3388,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #10    | PIKACHU     | ELECTRICO|         |   35    |   55     |   30    |    90     |    50    |   260   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 1/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 1/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #11    | SANDSHREW   |  TIERRA  |         |   50    |   75     |   85    |    40     |    30    |   280   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3414,11 +3414,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #20    | VENONAT     |  BICHO   |  VENENO |   60    |   55     |   50    |    45     |    40    |   250   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 2/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 2/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #21    | DIGLETT     |  TIERRA  |         |   10    |   55     |   25    |    95     |    45    |   230   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3440,11 +3440,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #30    | TENTACOOL   |  AGUA    |   VENENO|    40    |   40     |   35    |    70     |    100   |   285   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 3/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 3/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #31    | GEODUDE     |  ROCA    |   TIERRA|   40    |   80     |   100   |    20     |    30    |   270   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3454,7 +3454,7 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #34    | MAGNEMITE   | ELECTRICO|         |   25    |   35     |   70    |    45     |    95    |   270   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("| #35    | FARFETC¨D   |  NORMAL  |  VOLADOR|   52    |   65     |   55    |    60     |    58    |   290   |")
+					print("| #35    | FARFETCï¿½D   |  NORMAL  |  VOLADOR|   52    |   65     |   55    |    60     |    58    |   290   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #36    | DODUO       |  NORMAL  |  VOLADOR|   35    |   85     |   45    |    75     |    35    |   275   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3466,11 +3466,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #40    | GASTLY      |  FANTASMA|   VENENO|   30    |   35     |   30    |    80     |    45    |   280   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 4/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 4/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #41    | ONIX        |  ROCA    |   TIERRA|   35    |   45     |   160   |    70     |    100   |   275   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3492,11 +3492,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #50    | KOFFING     |  VENENO  |         |   40    |   65     |   95    |    35     |    35    |   345   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 5/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 5/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #51    | RHYHORN     |  ROCA    |   TIERRA|   80    |   85     |   95    |    25     |    60    |   310   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3518,11 +3518,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #60    | JYNX        |  HIELO   | PSIQUICO|   65    |   50     |   35    |    95     |    100   |   340   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 6/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 6/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #61    | ELECTABUZZ  | ELECTRICO|         |   65    |   83     |   57    |    105    |    55    |   420   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3544,11 +3544,11 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #70    | OMANYTE     |  ROCA    |  AGUA   |   35    |   40     |   100   |    35     |    90    |   300   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 7/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 7/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					print("") # no hay forma directa de borrar la pantalla con Python estandar
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("| NÚMERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
+					print("| Nï¿½MERO |  NOMBRE     |  TIPO 1  | TIPO 2  | SALUD   |  ATAQUE  | DEFENSA | VELOCIDAD | ESPECIAL | TOTAL   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #71    | KABUTO      |  ROCA    |     AGUA|   30    |   80     |   90    |    55     |    45    |   300   |")
 					print("|-----------------------------------------------------------------------------------------------------------|")
@@ -3568,8 +3568,8 @@ if __name__ == '__main__':
 					print("|-----------------------------------------------------------------------------------------------------------|")
 					print("| #79    | MEW         |  PSIQUICO|         |   100   |   100    |   100   |    100    |    100   |   500   |")
 					print("@-----------------------------------------------------------------------------------------------------------@")
-					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pág 8/8")
-					input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+					print("PRESIONES CUALQUIER TECLA PARA CONTINUAR                                                             Pï¿½g 8/8")
+					input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 					err = 0
 					for z in range(2,7):
 						# OPCION DE POSICION DE POKEMON "USUARIO"
@@ -3647,7 +3647,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -3792,7 +3792,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañazo"
+							nombreataque[1] = "Araï¿½azo"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -3849,7 +3849,7 @@ if __name__ == '__main__':
 							pokemon[4] = "44"
 							pokemon[5] = "55"
 							pokemon[6] = "40"
-							nombreataque[0] = "Ácido"
+							nombreataque[0] = "ï¿½cido"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "30"
 							efectivo[0] = "100"
@@ -3880,7 +3880,7 @@ if __name__ == '__main__':
 							pokemon[4] = "30"
 							pokemon[5] = "90"
 							pokemon[6] = "50"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -4004,7 +4004,7 @@ if __name__ == '__main__':
 							pokemon[4] = "48"
 							pokemon[5] = "35"
 							pokemon[6] = "60"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
@@ -4050,7 +4050,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -4071,7 +4071,7 @@ if __name__ == '__main__':
 							pp[0] = "15"
 							efectivo[0] = "55"
 							dano[0] = "0"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -4252,12 +4252,12 @@ if __name__ == '__main__':
 							pokemon[4] = "35"
 							pokemon[5] = "90"
 							pokemon[6] = "40"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
 							dano[0] = "80"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -4360,7 +4360,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -4577,7 +4577,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -4624,7 +4624,7 @@ if __name__ == '__main__':
 							pokemon[4] = "70"
 							pokemon[5] = "45"
 							pokemon[6] = "95"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -4934,7 +4934,7 @@ if __name__ == '__main__':
 							pokemon[4] = "50"
 							pokemon[5] = "100"
 							pokemon[6] = "55"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -5089,7 +5089,7 @@ if __name__ == '__main__':
 							pokemon[4] = "75"
 							pokemon[5] = "30"
 							pokemon[6] = "60"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
@@ -5187,7 +5187,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -5249,7 +5249,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -5435,7 +5435,7 @@ if __name__ == '__main__':
 							pp[0] = "20"
 							efectivo[0] = "100"
 							dano[0] = "65"
-							nombreataque[1] = "Puño Hielo"
+							nombreataque[1] = "Puï¿½o Hielo"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "15"
 							efectivo[1] = "100"
@@ -5461,7 +5461,7 @@ if __name__ == '__main__':
 							pokemon[4] = "57"
 							pokemon[5] = "105"
 							pokemon[6] = "85"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -5471,7 +5471,7 @@ if __name__ == '__main__':
 							pp[1] = "25"
 							efectivo[1] = "100"
 							dano[1] = "50"
-							nombreataque[2] = "Mega Puño"
+							nombreataque[2] = "Mega Puï¿½o"
 							tipoataque[2] = "NORMAL"
 							pp[2] = "20"
 							efectivo[2] = "85"
@@ -5502,7 +5502,7 @@ if __name__ == '__main__':
 							pp[1] = "15"
 							efectivo[1] = "100"
 							dano[1] = "95"
-							nombreataque[2] = "Puño Fuego"
+							nombreataque[2] = "Puï¿½o Fuego"
 							tipoataque[2] = pokemon[0]
 							pp[2] = "15"
 							efectivo[2] = "100"
@@ -5993,7 +5993,7 @@ if __name__ == '__main__':
 							pp[0] = ""
 							efectivo[0] = ""
 							dano[0] = "65"
-							nombreataque[1] = "Mega Puño"
+							nombreataque[1] = "Mega Puï¿½o"
 							tipoataque[1] = "NORMAL"
 							pp[1] = "20"
 							efectivo[1] = "85"
@@ -6029,7 +6029,7 @@ if __name__ == '__main__':
 							pp[1] = "10"
 							efectivo[1] = "100"
 							dano[1] = "65"
-							nombreataque[2] = "Mega Puño"
+							nombreataque[2] = "Mega Puï¿½o"
 							tipoataque[2] = pokemon[0]
 							pp[2] = "20"
 							efectivo[2] = "85"
@@ -6260,7 +6260,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -6405,7 +6405,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañazo"
+							nombreataque[1] = "Araï¿½azo"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -6462,7 +6462,7 @@ if __name__ == '__main__':
 							pokemon[4] = "44"
 							pokemon[5] = "55"
 							pokemon[6] = "40"
-							nombreataque[0] = "Ácido"
+							nombreataque[0] = "ï¿½cido"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "30"
 							efectivo[0] = "100"
@@ -6493,7 +6493,7 @@ if __name__ == '__main__':
 							pokemon[4] = "30"
 							pokemon[5] = "90"
 							pokemon[6] = "50"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -6617,7 +6617,7 @@ if __name__ == '__main__':
 							pokemon[4] = "48"
 							pokemon[5] = "35"
 							pokemon[6] = "60"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
@@ -6663,7 +6663,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -6684,7 +6684,7 @@ if __name__ == '__main__':
 							pp[0] = "15"
 							efectivo[0] = "55"
 							dano[0] = "0"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -6865,12 +6865,12 @@ if __name__ == '__main__':
 							pokemon[4] = "35"
 							pokemon[5] = "90"
 							pokemon[6] = "40"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
 							dano[0] = "80"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -6973,7 +6973,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -7190,7 +7190,7 @@ if __name__ == '__main__':
 							pp[2] = "15"
 							efectivo[2] = "70"
 							dano[2] = "15"
-							nombreataque[3] = "Puño Fuego"
+							nombreataque[3] = "Puï¿½o Fuego"
 							tipoataque[3] = pokemon[0]
 							pp[3] = "15"
 							efectivo[3] = "100"
@@ -7237,7 +7237,7 @@ if __name__ == '__main__':
 							pokemon[4] = "70"
 							pokemon[5] = "45"
 							pokemon[6] = "95"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -7547,7 +7547,7 @@ if __name__ == '__main__':
 							pokemon[4] = "50"
 							pokemon[5] = "100"
 							pokemon[6] = "55"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -7702,7 +7702,7 @@ if __name__ == '__main__':
 							pokemon[4] = "75"
 							pokemon[5] = "30"
 							pokemon[6] = "60"
-							nombreataque[0] = "Mega Puño"
+							nombreataque[0] = "Mega Puï¿½o"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "20"
 							efectivo[0] = "85"
@@ -7800,7 +7800,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -7862,7 +7862,7 @@ if __name__ == '__main__':
 							pp[0] = "35"
 							efectivo[0] = "100"
 							dano[0] = "40"
-							nombreataque[1] = "Arañaso"
+							nombreataque[1] = "Araï¿½aso"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "35"
 							efectivo[1] = "100"
@@ -8048,7 +8048,7 @@ if __name__ == '__main__':
 							pp[0] = "20"
 							efectivo[0] = "100"
 							dano[0] = "65"
-							nombreataque[1] = "Puño Hielo"
+							nombreataque[1] = "Puï¿½o Hielo"
 							tipoataque[1] = pokemon[0]
 							pp[1] = "15"
 							efectivo[1] = "100"
@@ -8074,7 +8074,7 @@ if __name__ == '__main__':
 							pokemon[4] = "57"
 							pokemon[5] = "105"
 							pokemon[6] = "85"
-							nombreataque[0] = "Puño Trueno"
+							nombreataque[0] = "Puï¿½o Trueno"
 							tipoataque[0] = pokemon[0]
 							pp[0] = "15"
 							efectivo[0] = "100"
@@ -8084,7 +8084,7 @@ if __name__ == '__main__':
 							pp[1] = "25"
 							efectivo[1] = "100"
 							dano[1] = "50"
-							nombreataque[2] = "Mega Puño"
+							nombreataque[2] = "Mega Puï¿½o"
 							tipoataque[2] = "NORMAL"
 							pp[2] = "20"
 							efectivo[2] = "85"
@@ -8115,7 +8115,7 @@ if __name__ == '__main__':
 							pp[1] = "15"
 							efectivo[1] = "100"
 							dano[1] = "95"
-							nombreataque[2] = "Puño Fuego"
+							nombreataque[2] = "Puï¿½o Fuego"
 							tipoataque[2] = pokemon[0]
 							pp[2] = "15"
 							efectivo[2] = "100"
@@ -8606,7 +8606,7 @@ if __name__ == '__main__':
 							pp[0] = ""
 							efectivo[0] = ""
 							dano[0] = "65"
-							nombreataque[1] = "Mega Puño"
+							nombreataque[1] = "Mega Puï¿½o"
 							tipoataque[1] = "NORMAL"
 							pp[1] = "20"
 							efectivo[1] = "85"
@@ -8642,7 +8642,7 @@ if __name__ == '__main__':
 							pp[1] = "10"
 							efectivo[1] = "100"
 							dano[1] = "65"
-							nombreataque[2] = "Mega Puño"
+							nombreataque[2] = "Mega Puï¿½o"
 							tipoataque[2] = pokemon[0]
 							pp[2] = "20"
 							efectivo[2] = "85"
@@ -8800,7 +8800,7 @@ if __name__ == '__main__':
 			# ******************************************************SALIR DEL JUEGO*******************************
 			if opc3==4:
 				while True:# no hay 'repetir' en python
-					print("¿Estas seguro que quieres salir?, si o no ")
+					print("ï¿½Estas seguro que quieres salir?, si o no ")
 					saliropc = input()
 					if saliropc=="si" or saliropc=="SI" or saliropc=="no" or saliropc=="NO": break
 				if saliropc=="SI" or saliropc=="si":
@@ -8832,7 +8832,7 @@ if __name__ == '__main__':
 		print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -8847,7 +8847,7 @@ if __name__ == '__main__':
 		print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -8862,7 +8862,7 @@ if __name__ == '__main__':
 		print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -8877,7 +8877,7 @@ if __name__ == '__main__':
 		print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -8892,7 +8892,7 @@ if __name__ == '__main__':
 		print("XXXXXXXXXX@---------------------------@XXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxxxxxxxxxxXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
-		input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+		input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 		print("") # no hay forma directa de borrar la pantalla con Python estandar
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
 		print("XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX")
@@ -8915,15 +8915,15 @@ if __name__ == '__main__':
 	print("                               `")
 	print("   .:XHHHHk.              db.   .;;.     dH  MX  ")
 	print("oMMMMMMMMMMM       ~MM  dMMP :MMMMMR   MMM  MR      ~MRMN")
-	print("QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ´MMM")
+	print("QMMMMMb   MMX       MMMMMMP  MX   M~   MMM MMM  .oo. XMMM   ï¿½MMM")
 	print("  `MMMM.  )M> :X!Hk. MMMM   XMM.o   .  MMMMMMM X?XMMM MMM> !MMP")
-	print("   ´MMMb.dM! XM M´?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM")
+	print("   ï¿½MMMb.dM! XM Mï¿½?M MMMMMX.`MMMMMMMM~ MM M MM XM `  MX MMX XMM")
 	print("    ~MMMMM~ XMM. .XM XM` MMMb.~~MMMM~.MMX M  t MMbooMM XM MMMMP")
 	print("     ?MMM>  YMMMMMM! MM   `?MMRb.    `       !L MMMMM XM  IMMM")
 	print("      MMMX    MMMM   MM       ~%:            !Mh.  dMI     IMMP")
-	print("      ´MMM.                                                IMX")
+	print("      ï¿½MMM.                                                IMX")
 	print("       ~M!M                                                 BMT")
 	print("                      A M A R I L L O ")
 	print("")
-	input() # a diferencia del pseudocódigo, espera un Enter, no cualquier tecla
+	input() # a diferencia del pseudocï¿½digo, espera un Enter, no cualquier tecla
 
